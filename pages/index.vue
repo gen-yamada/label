@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        label
+        hello world
       </h1>
       <div class="links">
         <a
